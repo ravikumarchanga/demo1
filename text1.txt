@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C63D-46B4
+
+ Directory of C:\Users\Manjit\Desktop\Sel Project
+
+07/06/2020  05:19 PM    <DIR>          .
+07/06/2020  05:19 PM    <DIR>          ..
+07/06/2020  05:19 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  142,608,535,552 bytes free
